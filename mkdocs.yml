@@ -1,0 +1,23 @@
+site_name: AVWX Dev Blog
+site_description: 'The developer blog of AVWX'
+site_author: 'Michael duPont'
+site_url: 'http://blog.avwx.rest'
+
+repo_name: 'avwx-rest/avwx-api'
+repo_url: 'https://github.com/avwx-rest/avwx-api'
+
+theme:
+  name: 'material'
+  language: 'en'
+  logo:
+    icon: 'flight'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/avwx-rest'
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
