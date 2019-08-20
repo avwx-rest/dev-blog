@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>http://blog.avwx.rest/</loc>
-     <lastmod>2019-08-05</lastmod>
+     <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://blog.avwx.rest/2019/08-04/</loc>
-     <lastmod>2019-08-05</lastmod>
+     <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://blog.avwx.rest/2019/08-05/</loc>
-     <lastmod>2019-08-05</lastmod>
+     <lastmod>2019-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://blog.avwx.rest/2019/08-19/</loc>
+     <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
